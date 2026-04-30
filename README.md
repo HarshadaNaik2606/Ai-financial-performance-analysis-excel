@@ -115,13 +115,6 @@ This project demonstrates the ability to:
 
 ---
 
-## 📁 Project Deliverables  
-
-- Excel analysis file  
-- Interactive dashboard  
-- Case study report  
-- Presentation slides  
-
 ---
 
 ## 👤 Author  
